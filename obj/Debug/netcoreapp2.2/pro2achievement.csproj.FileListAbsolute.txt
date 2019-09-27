@@ -1,0 +1,11 @@
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\bin\Debug\netcoreapp2.2\pro2achievement.deps.json
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\bin\Debug\netcoreapp2.2\pro2achievement.runtimeconfig.json
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\bin\Debug\netcoreapp2.2\pro2achievement.runtimeconfig.dev.json
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\bin\Debug\netcoreapp2.2\pro2achievement.dll
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\bin\Debug\netcoreapp2.2\pro2achievement.pdb
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.csprojAssemblyReference.cache
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.csproj.CoreCompileInputs.cache
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.AssemblyInfoInputs.cache
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.AssemblyInfo.cs
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.dll
+C:\Users\joeyv\Dropbox\bewijzenmap\periode1.1\pro2\Github\pro2achievement\obj\Debug\netcoreapp2.2\pro2achievement.pdb
